@@ -523,4 +523,4 @@ Technology should help farmers understand their choices, not make those choices 
 
 <br><br>
 
-<a href="https://github.com/lineo01/Arkrishitech">Git
+<a href="https://github.com/lineo01/Arkrishitech">Github
