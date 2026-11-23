@@ -1,9 +1,9 @@
 {
   "market": "Kalimati wholesale market, Kathmandu, Nepal",
   "source": "Ramro Patro",
-  "source_url": "https://ramropatro.com/vegetable",
-  "source_publisher": "Kalimati Fruits and Vegetable Market Development Board daily wholesale rates as displayed by Ramro Patro",
-  "captured_on": "2026-11-16",
+  "source_url": "https://www.ramropatro.com/vegetable",
+  "source_publisher": "Kalimati daily wholesale rates as displayed by Ramro Patro",
+  "captured_on": "2026-11-23",
   "currency": "NPR",
   "unit": "kg",
   "refresh_policy": "Weekly snapshot; not a live feed",
@@ -18,23 +18,23 @@
     {
       "name": "Tomato, small (local)",
       "name_ne": "गोलभेडा सानो (लोकल)",
-      "min": 12,
-      "max": 20,
-      "avg": 15
+      "min": 15,
+      "max": 25,
+      "avg": 21
     },
     {
       "name": "Potato, red (long)",
       "name_ne": "आलु रातो (लाम्चो)",
-      "min": 55,
-      "max": 60,
-      "avg": 58
+      "min": 50,
+      "max": 55,
+      "avg": 51
     },
     {
       "name": "Potato, white",
       "name_ne": "सेतो आलु",
       "min": 28,
       "max": 32,
-      "avg": 30
+      "avg": 29
     },
     {
       "name": "Carrot (local)",
@@ -48,14 +48,14 @@
       "name_ne": "बन्दा (लोकल)",
       "min": 25,
       "max": 35,
-      "avg": 29
+      "avg": 30
     },
     {
       "name": "Cauliflower (local)",
       "name_ne": "काउली (लोकल)",
-      "min": 20,
-      "max": 30,
-      "avg": 26
+      "min": 40,
+      "max": 60,
+      "avg": 44
     },
     {
       "name": "Radish, red",
@@ -68,43 +68,43 @@
       "name": "Green peas",
       "name_ne": "हरियो केराउ",
       "min": 100,
-      "max": 130,
-      "avg": 112
+      "max": 120,
+      "avg": 110
     },
     {
       "name": "French bean (local)",
       "name_ne": "सिमी (लोकल)",
-      "min": 60,
-      "max": 70,
-      "avg": 65
+      "min": 100,
+      "max": 120,
+      "avg": 108
     },
     {
       "name": "Bitter gourd",
       "name_ne": "करेला",
-      "min": 80,
-      "max": 100,
-      "avg": 88
-    },
-    {
-      "name": "Bottle gourd",
-      "name_ne": "लौका",
-      "min": 40,
-      "max": 50,
-      "avg": 45
-    },
-    {
-      "name": "Okra",
-      "name_ne": "भिण्डी",
       "min": 70,
       "max": 80,
       "avg": 75
     },
     {
+      "name": "Bottle gourd",
+      "name_ne": "लौका",
+      "min": 60,
+      "max": 70,
+      "avg": 65
+    },
+    {
+      "name": "Okra",
+      "name_ne": "भिण्डी",
+      "min": 80,
+      "max": 90,
+      "avg": 85
+    },
+    {
       "name": "Spinach leaf",
       "name_ne": "पालुङ्गो",
-      "min": 80,
+      "min": 100,
       "max": 120,
-      "avg": 100
+      "avg": 110
     },
     {
       "name": "Gundruk",
